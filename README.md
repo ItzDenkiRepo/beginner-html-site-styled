@@ -1,4 +1,4 @@
-# beginner-html-site-styled
-A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics).
+#ItzDenki Website
+[](https://64.media.tumblr.com/9b923871f1b7ef53947a50cf29afe5fc/ca5f16ff7e504798-c6/s1280x1920/b2d9c80a442d7054f1ec98f81e1945f024be5126.png)
 
-[Run the example live](http://mdn.github.io/beginner-html-site-styled/).
+[Live Demo](http://itzdenkivn.tk).
